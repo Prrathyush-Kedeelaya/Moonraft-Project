@@ -10,3 +10,5 @@ To determine whether a picture has undergone fabrication or manipulation, such a
 1. Convergence: Epoch 30
 2. Best accuracy: 98.13% (epoch 30)
 
+## Dataset
+Casia dataset: https://www.kaggle.com/datasets/sophatvathana/casia-dataset
